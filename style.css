@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Roboto Condensed', sans-serif;;
+    text-align: center;
+    background-color:peru;
+    height: 50vh;
+    font-size: 30px;
+}
+.lottie{
+    background-color:bisque;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    font-size: 20px;
+}
+input{
+    font-size: 20px;
+}
+textarea{
+    font-size: 20px;
+}
